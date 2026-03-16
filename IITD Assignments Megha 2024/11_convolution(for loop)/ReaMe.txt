@@ -1,0 +1,9 @@
+In this program I've made a function for convolution using for loop.
+
+How to run: open in vs code an click on 'run below'
+
+I/P: Building image(in same folder)
+kernel is defined: blurr_filter = (1/9) * np.ones((3,3))
+
+
+O/P:blurred image, displayed

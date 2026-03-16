@@ -1,0 +1,2 @@
+This ppt is the summary of topics taught on June 3 : Introduction to signals & images
+Mainly covers the topics: images as signals, image processing levels, image storage as matrices, image formation and it's models, color image models.
